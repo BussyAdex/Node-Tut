@@ -1,0 +1,27 @@
+[
+    {
+        "username":"Bussy",
+        "roles":{
+            "User":2001,
+            "Editor": 1984,
+            "Admin": 5150
+        },
+        "password":"$2b$10$UIKK9V6i8VXY55ihXANCRO2DsKt5giDa2cugLtbx1Zwv0Tja0WgxW",
+        "refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkJ1c3N5MiIsImlhdCI6MTY5NDI5Nzg0MiwiZXhwIjoxNjk0Mzg0MjQyfQ.hdBHbtxIcIqmgiUBcyeFp0Tv4jcNdMCGQsHFyX0ABsA"
+    },
+    {
+        "username":"Bussy2",
+        "roles":{
+            "User":2001
+        },
+        "password":"$2b$10$1v1OvN/Jou4z7Im/QSK4meM/B/22nR3o2aBG6CWGXAMnkANbE5h/O","refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkJ1c3N5MiIsImlhdCI6MTY5NDI5Nzg0MiwiZXhwIjoxNjk0Mzg0MjQyfQ.hdBHbtxIcIqmgiUBcyeFp0Tv4jcNdMCGQsHFyX0ABsA"
+    },
+    {
+        "username":"Bussy3",
+        "roles":{
+            "User":2001,
+            "Editor":1984
+        },
+        "password":"$2b$10$1v1OvN/Jou4z7Im/QSK4meM/B/22nR3o2aBG6CWGXAMnkANbE5h/O","refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkJ1c3N5MiIsImlhdCI6MTY5NDI5Nzg0MiwiZXhwIjoxNjk0Mzg0MjQyfQ.hdBHbtxIcIqmgiUBcyeFp0Tv4jcNdMCGQsHFyX0ABsA"
+    }
+]
